@@ -1,6 +1,6 @@
 ### About me:
 - 👋 Hi, I’m @alexamahajan
-- 📚 I'm a BFA Digital Arts major, minoring in Computer Science and Math. 
+- 📚 I graduated with my BFA in Digital Arts, and minors in computer science and math. 
 - 👀 I’m interested in animation, particularly 3D animation for feature films, as well as computer programming.
 - My dream is to be a technical director. I'm passionate about finding ways to use both my left and right brain, not holding the artistic and analytical as disparate but rather learning how art and technology go hand in hand.
 
@@ -12,7 +12,7 @@
 
 ### How to reach me:
 - 📫 mahajanalexa@gmail.com
-- www.artstation.com/alexamahajan
+- https://alexamahajan.com/
 
 <!---
 alexamahajan/alexamahajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. I 
